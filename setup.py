@@ -12,13 +12,13 @@ from shutil import rmtree
 from setuptools import find_packages, setup, Command
 
 # Package meta-data.
-NAME = 'apigateway'
+NAME = 'llm-apigateway'
 DESCRIPTION = 'Debug your AI programs with ease through a web-based interface. Modify inputs and outputs, and leverage the power of custom Python filters.'
 URL = 'https://github.com/jiangmuran/llm-apigateway'
 EMAIL = 'jiangmuran1224@gmail.com'
 AUTHOR = 'Andy Jiang'
 REQUIRES_PYTHON = '>=3.6.0'
-VERSION = '0.1.0'
+VERSION = '0.1.1'
 
 # What packages are required for this module to be executed?
 REQUIRED = [
