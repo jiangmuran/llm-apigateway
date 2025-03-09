@@ -36,6 +36,7 @@ The project plans to use Python as the development language and release it as a 
 ## Development Timeline
 - ~~Release pip package~~
 - Set up a server compatible with the OpenAI API format
+- Implement api transfer function and logging
 - Implement functions to add upstreams and send to upstream interfaces
 - Implement functions to modify information and customize responses
 - Develop web UI
